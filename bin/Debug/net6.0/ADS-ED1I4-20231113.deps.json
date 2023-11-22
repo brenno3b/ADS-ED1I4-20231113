@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ADS-ED1I4-20231113/1.0.0": {
+        "runtime": {
+          "ADS-ED1I4-20231113.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADS-ED1I4-20231113/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
